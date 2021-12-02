@@ -1,0 +1,7 @@
+C:\Users\Mato\source\repos\XMLUsporedivanjeLINQ\XMLUsporedivanjeLINQ\bin\Debug\XMLUsporedivanjeLINQ.exe.config
+C:\Users\Mato\source\repos\XMLUsporedivanjeLINQ\XMLUsporedivanjeLINQ\bin\Debug\XMLUsporedivanjeLINQ.exe
+C:\Users\Mato\source\repos\XMLUsporedivanjeLINQ\XMLUsporedivanjeLINQ\bin\Debug\XMLUsporedivanjeLINQ.pdb
+C:\Users\Mato\source\repos\XMLUsporedivanjeLINQ\XMLUsporedivanjeLINQ\obj\Debug\XMLUsporedivanjeLINQ.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\XMLUsporedivanjeLINQ\XMLUsporedivanjeLINQ\obj\Debug\XMLUsporedivanjeLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\XMLUsporedivanjeLINQ\XMLUsporedivanjeLINQ\obj\Debug\XMLUsporedivanjeLINQ.exe
+C:\Users\Mato\source\repos\XMLUsporedivanjeLINQ\XMLUsporedivanjeLINQ\obj\Debug\XMLUsporedivanjeLINQ.pdb
